@@ -1,0 +1,125 @@
+{
+  "id": "6aafee18eec8edc6b47dd733",
+  "slug": "en-boucle-quincy-jones-miles-davis-etc",
+  "appleId": 1000790806964,
+  "title": "En boucle : Quincy Jones, Miles Davis, etc.",
+  "publishedAt": "2026-09-20T16:00:00.000Z",
+  "duration": "21:32",
+  "image": "https://assets.pippa.io/shows/5da08828389f426b625eef25/1789914514110-70e4a119-40bc-41f4-abc7-2de39d9edde4.jpeg",
+  "audioUrl": "https://sphinx.acast.com/p/open/s/5da08828389f426b625eef25/e/6aafee18eec8edc6b47dd733/media.mp3",
+  "acastUrl": "https://shows.acast.com/we-love-tftc/episodes/en-boucle-quincy-jones-miles-davis-etc",
+  "tracks": [
+    {
+      "artist": "Norio Maeda Trio",
+      "title": "Alpha Ray",
+      "recommendedBy": "Baptiste",
+      "note": "Jazz japonais en trio, sans sax ni trompette. L'impression d'entrer en fin de soirée dans un bar où l'on n'est pas invité, et de se laisser emporter par le swing.",
+      "at": "0:17",
+      "links": {
+        "pageUrl": "https://song.link/i/1699533270",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a9/a2/cda9a240-7d52-a029-62a8-e2eb1c5c1433/COCB-54093.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/alpha-ray/1699533267?i=1699533270&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "vhs ghost",
+      "title": "Thought this over!",
+      "recommendedBy": "JB",
+      "note": "Sadcore lo-fi d'un projet de Portland — « spooky tunes », des fantômes sur toutes les pochettes. Très mélancolique, très nostalgique : son genre de prédilection.",
+      "at": "1:50",
+      "links": {
+        "pageUrl": "https://song.link/i/6767265961",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/ed/44/34ed4486-b678-34be-fd8a-4cf766d8de3e/824296556689_cover.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/thought-this-over/1896449967?i=6767265961&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Les Masqués",
+      "title": "Bal chez le baron",
+      "recommendedBy": "Baptiste",
+      "note": "Bossa nova française de 1969, l'un de ces petits groupes de province qui ont osé expérimenter. Certains titres de l'album sont inécoutables, mais celui-ci a traversé le temps.",
+      "at": "4:19",
+      "links": {
+        "pageUrl": "https://song.link/i/1483799551",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/13/8b/0c/138b0c03-81fe-26e7-4d36-569aecf36c00/Cover.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/bal-chez-le-baron/1483799275?i=1483799551&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Quincy Jones",
+      "title": "Gentle Lover",
+      "recommendedBy": "JB",
+      "note": "Un mélange de jazz, de soul et de musique orchestrale qui donne envie de siroter un cocktail dans une villa californienne des années 60, au bord de la piscine. Hommage à « l'architecte » de la musique.",
+      "at": "6:03",
+      "links": {
+        "pageUrl": "https://song.link/i/1443856833",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fa/33/99/fa339924-79cb-75e4-847d-451a339674a7/00602537233595.rgb.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/gentle-lover/1443856814?i=1443856833&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Liam Kazar",
+      "title": "Didn't I",
+      "recommendedBy": "Baptiste",
+      "note": "Le guitariste de Kevin Morby, vu seul au premier rang en première partie à Lille. Une musique pleine de naïveté et de sensibilité sur trouver sa place dans le monde — une des belles découvertes de son année.",
+      "at": "8:26",
+      "links": {
+        "pageUrl": "https://song.link/i/1830066224",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/c0/11/a8c011bd-5467-4562-520b-94c6f8e135dc/198704644382_Cover.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/didnt-i/1830066217?i=1830066224&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Lewis",
+      "title": "Like to See You Again",
+      "recommendedBy": "JB",
+      "note": "L'histoire folle d'un album trouvé en brocante pour sa pochette, d'un artiste introuvable finalement retrouvé tout de blanc vêtu. Un son qui respire les années 80, Michael Mann, Miami — sa chanson préférée de Lewis.",
+      "at": "11:10",
+      "links": {
+        "pageUrl": "https://song.link/i/1790509456",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/34/73/b434737a-aa80-d690-1efd-573ef0c463a1/78.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/like-to-see-you-again/1790509024?i=1790509456&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "recommendedBy": "Baptiste",
+      "note": "Fin des années 60, face à Hendrix et James Brown, Miles électrifie le jazz. Vingt minutes avec une ligne de basse obsédante, à écouter d'une traite les yeux fermés : un voyage psychédélique.",
+      "at": "16:21",
+      "links": {
+        "pageUrl": "https://song.link/i/170414639",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/04/25/f4/mzi.nxartwlu.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/bitches-brew-live/170413535?i=170414639&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "Mack the Knife",
+      "recommendedBy": "JB",
+      "note": "Réentendue dans Lucky Numbers de Nora Ephron. Un classique que tout le monde connaît mais qu'on n'écoute jamais assez : swing big band façon Sinatra, ambiance Les Affranchis — elle met de bonne humeur.",
+      "at": "18:29",
+      "links": {
+        "pageUrl": "https://song.link/i/30393093",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d17/h18/s06.tysgshrt.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/mack-the-knife/30393091?i=30393093&uo=4"
+        }
+      }
+    }
+  ]
+}

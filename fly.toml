@@ -1,0 +1,22 @@
+app = "enboucle"
+primary_region = "cdg"
+
+[build]
+
+[env]
+  NUXT_DB_URL = "file:/data/enboucle.db"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[mounts]
+  source = "enboucle_data"
+  destination = "/data"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"

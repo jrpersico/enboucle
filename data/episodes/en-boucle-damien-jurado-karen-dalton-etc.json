@@ -1,0 +1,125 @@
+{
+  "id": "6ab7cf3b59a98735e1c8ead8",
+  "slug": "en-boucle-damien-jurado-karen-dalton-etc",
+  "appleId": 1000791881373,
+  "title": "En boucle : Damien Jurado, Karen Dalton, etc.",
+  "publishedAt": "2026-09-27T15:00:00.000Z",
+  "duration": "24:45",
+  "image": "https://assets.pippa.io/shows/5da08828389f426b625eef25/1790430956316-c85ade15-ca2a-458c-aa80-8f8d705f482a.jpeg",
+  "audioUrl": "https://sphinx.acast.com/p/open/s/5da08828389f426b625eef25/e/6ab7cf3b59a98735e1c8ead8/media.mp3",
+  "acastUrl": "https://shows.acast.com/we-love-tftc/episodes/en-boucle-damien-jurado-karen-dalton-etc",
+  "tracks": [
+    {
+      "artist": "Karen Dalton",
+      "title": "Little Bit of Rain",
+      "recommendedBy": "Baptiste",
+      "note": "Sa chanteuse préférée : une folk de Greenwich Village, contemporaine de Dylan, revenue à l'anonymat. Un jeu de guitare simple, une voix reconnaissable entre mille qui prend le cœur.",
+      "at": "0:20",
+      "links": {
+        "pageUrl": "https://song.link/i/499382852",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/ac/49/5c/mzi.zrldnzku.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/little-bit-of-rain/499382773?i=499382852&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "marin county lighthouse keeper",
+      "title": "Leaving",
+      "recommendedBy": "JB",
+      "note": "Petit groupe indé américain d'ambient, toute une imagerie autour des phares — ils y enregistrent parfois, on entend la mer et les oiseaux. À écouter hors saison sur une plage de Bretagne ou de Normandie.",
+      "at": "4:12",
+      "links": {
+        "pageUrl": "https://song.link/i/1623840846",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/a4/08/55a408f5-dd25-4651-9395-2e1f31d1a70f/artwork.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/leaving/1623840575?i=1623840846&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "James Ellis Ford",
+      "title": "Overtones",
+      "recommendedBy": "Baptiste",
+      "note": "Son album de l'année : le producteur d'Arctic Monkeys l'a composé dans sa chambre d'hôpital pendant son traitement contre un cancer. Dans la noirceur, l'espoir est tout le sujet — brillant et très joli.",
+      "at": "6:19",
+      "links": {
+        "pageUrl": "https://song.link/i/6779725964",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/85/c3/5b85c316-746e-32c4-baba-da4e57910ad1/887828057269.png/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/overtones/6779725963?i=6779725964&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Damien Jurado",
+      "title": "Yakama",
+      "recommendedBy": "JB",
+      "note": "Un artiste qu'il suit depuis plus de 20 ans (sa musique était déjà sur son premier site photo). Un titre de 2026, folk américaine pure, toujours aussi bon — il mériterait d'être bien plus connu.",
+      "at": "8:31",
+      "links": {
+        "pageUrl": "https://song.link/i/6763849248",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/29/75/a9297571-cc03-e35d-ecd6-318ee09b9d4b/823000394739.png/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/yakama/1895524266?i=6763849248&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "kelly doyle",
+      "title": "He Needs Me",
+      "recommendedBy": "Baptiste",
+      "note": "Découvert dans le train : un guitariste à la musique instrumentale saisissante, presque cinématographique. Un hommage à la library music, genre bien trop méconnu.",
+      "at": "12:17",
+      "links": {
+        "pageUrl": "https://song.link/i/1702910850",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2f/50/f72f5038-4fad-1df0-b1e1-44731bb19139/54391901569.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/he-needs-me/1702910650?i=1702910850&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Bree Sharp",
+      "title": "Show Me",
+      "recommendedBy": "JB",
+      "note": "Folk pop de 1999 dans la lignée d'Aimee Mann, découverte dans un film. Le genre de chanson « qui pourrait être dans Dawson » et qui lui rappelle son adolescence.",
+      "at": "13:53",
+      "links": {
+        "pageUrl": "https://song.link/i/1794551896",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/50/ff/1150ff0d-890e-8ea2-6515-2773eeb8855a/0.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/show-me/1794551884?i=1794551896&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "Anne Briggs",
+      "title": "Sandman's Song",
+      "recommendedBy": "Baptiste",
+      "note": "Folk anglaise des années 60, une artiste à l'univers bien à elle, amie de Bert Jansch. Son réveil en douceur quand il part au travail le matin.",
+      "at": "16:22",
+      "links": {
+        "pageUrl": "https://song.link/i/268424663",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/da/93/f4/mzi.jiwxjqec.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/sandmans-song/268424661?i=268424663&uo=4"
+        }
+      }
+    },
+    {
+      "artist": "You Blew It!",
+      "title": "The Fifties",
+      "recommendedBy": "JB",
+      "note": "Album découvert grâce à sa pochette, indie rock de 2012, l'âge d'or du genre. La chanson parle de la nostalgie d'une époque qu'on n'a pas connue — les années 50, celles où il aimerait retourner.",
+      "at": "17:56",
+      "links": {
+        "pageUrl": "https://song.link/i/1238830566",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/f3/06/8cf30623-8bfb-e71b-a21d-736be7deb8d7/616892029748.jpg/300x300bb.jpg",
+        "platforms": {
+          "appleMusic": "https://music.apple.com/fr/album/the-fifties/1238830542?i=1238830566&uo=4"
+        }
+      }
+    }
+  ]
+}
