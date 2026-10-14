@@ -78,6 +78,10 @@ const platforms = computed(() => {
           </a>
         </Button>
       </div>
+
+      <div class="mt-3 border-t pt-3">
+        <TrackVotes :track="track" />
+      </div>
     </div>
   </Card>
 </template>

@@ -8,6 +8,9 @@
         <span class="font-serif text-2xl">En boucle</span>
       </NuxtLink>
       <nav class="flex items-center gap-4 text-sm text-muted-foreground">
+        <NuxtLink to="/contribuer" class="hover:text-foreground" active-class="text-foreground">
+          Contribuer
+        </NuxtLink>
         <a href="https://shows.acast.com/we-love-tftc/episodes" target="_blank" rel="noopener" class="hover:text-foreground">
           Écouter le podcast ↗
         </a>
